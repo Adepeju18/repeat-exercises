@@ -8,7 +8,7 @@ var greeting = "Hello world";
 console.log(greeting);
 ```
 
-The program above will print "Hello world" to the console. Notice how it uses the value assigned to the variable `greeting`.
+The program above will print "Hello world" to the console. Notice how it uses the value assigned to the variable `greeting`. 
 
 ## Exercise
 
